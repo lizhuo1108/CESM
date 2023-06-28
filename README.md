@@ -1,2 +1,2 @@
 # CESM
-CESM running instruction
+CESM running instruction (see the word document)
