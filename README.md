@@ -1,2 +1,2 @@
 # CESM
-CESM running instruction (see the word document)
+Note that the instruction is for burst-daes for DAES in SUNY, Albany. 
